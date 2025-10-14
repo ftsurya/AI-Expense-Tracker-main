@@ -1,0 +1,5 @@
+{
+  "name": "AI Expense Tracker",
+  "description": "A smart expense tracker application that helps you manage your finances with AI-powered insights from Gemini.",
+  "requestFramePermissions": []
+}
